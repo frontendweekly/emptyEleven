@@ -28,12 +28,12 @@
     "@11ty/eleventy-navigation": "^0.2.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
-    "@frontendweekly/eleventy-plugin-markdown": "^0.0.13",
+    "@frontendweekly/eleventy-plugin-markdown": "^0.1.0",
     "autoprefixer": "^10.2.5",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.0.1",
+    "cssnano": "^5.0.2",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.2.12",
+    "postcss": "^8.2.13",
     "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.1",
     "postcss-load-config": "^3.0.1",
@@ -42,8 +42,8 @@
     "toml": "^3.0.0"
   },
   "devDependencies": {
-    "@frontendweekly/eslint-config-molle": "^0.0.5",
-    "@frontendweekly/jest-preset-molle": "^0.0.19",
+    "@frontendweekly/eslint-config-molle": "^0.0.6",
+    "@frontendweekly/jest-preset-molle": "^0.0.20",
     "@frontendweekly/stylelint-config-molle": "^0.0.7",
     "eslint": "^7.25.0",
     "husky": "^6.0.0",
@@ -51,8 +51,8 @@
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0",
-    "stylelint": "^13.12.0",
-    "netlify-cli": "^3.21.8"
+    "stylelint": "^13.13.1",
+    "netlify-cli": "^3.24.3"
   },
   "repository": {
     "type": "git",
